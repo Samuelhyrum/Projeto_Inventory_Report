@@ -27,3 +27,6 @@ class CompleteReport:
             f"Produtos estocados por empresa:\n"
             f"{complete_rep}"
         )
+
+
+print(np.__version__)
